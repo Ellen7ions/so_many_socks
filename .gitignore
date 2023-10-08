@@ -1,0 +1,8 @@
+.idea
+
+c/.idea
+c/cmake-build-debug
+c/cmake-build-release
+
+rust/Cargo.lock
+rust/target
